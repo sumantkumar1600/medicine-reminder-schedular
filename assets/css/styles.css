@@ -1,0 +1,7 @@
+/* Custom CSS if needed */
+.medicine-card {
+    transition: all 0.3s ease;
+}
+.medicine-card:hover {
+    transform: translateY(-2px);
+}
