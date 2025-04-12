@@ -257,5 +257,6 @@ $medicines = getMedicines($_SESSION['user_id']);
         updateUpcomingCount();
         setInterval(updateUpcomingCount, 1000 * 60);
     </script>
+    
 </body>
 </html> 
