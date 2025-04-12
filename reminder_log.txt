@@ -3284,3 +3284,51 @@ Total reminders sent: 0
 Found 0 medicines scheduled for 11:53:00
 Total reminders sent: 0
 
+
+
+=== Checking reminders at 2025-04-12 11:53:01 ===
+Found 0 medicines scheduled for 11:53:01
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:02 ===
+Found 0 medicines scheduled for 11:53:02
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:03 ===
+Found 0 medicines scheduled for 11:53:03
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:04 ===
+Found 0 medicines scheduled for 11:53:04
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:05 ===
+Found 0 medicines scheduled for 11:53:05
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:06 ===
+Found 0 medicines scheduled for 11:53:06
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:07 ===
+Found 0 medicines scheduled for 11:53:07
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 11:53:08 ===
+Found 0 medicines scheduled for 11:53:08
+Total reminders sent: 0
+
