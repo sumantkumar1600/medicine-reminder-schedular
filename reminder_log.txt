@@ -3332,3 +3332,869 @@ Total reminders sent: 0
 Found 0 medicines scheduled for 11:53:08
 Total reminders sent: 0
 
+
+
+=== Checking reminders at 2025-04-12 12:18:59 ===
+Found 0 medicines scheduled for 12:18:59
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:00 ===
+Found 0 medicines scheduled for 12:19:00
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:01 ===
+Found 0 medicines scheduled for 12:19:01
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:02 ===
+Found 0 medicines scheduled for 12:19:02
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:03 ===
+Found 0 medicines scheduled for 12:19:03
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:04 ===
+Found 0 medicines scheduled for 12:19:04
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:05 ===
+Found 0 medicines scheduled for 12:19:05
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:06 ===
+Found 0 medicines scheduled for 12:19:06
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:07 ===
+Found 0 medicines scheduled for 12:19:07
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:08 ===
+Found 0 medicines scheduled for 12:19:08
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:09 ===
+Found 0 medicines scheduled for 12:19:09
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:10 ===
+Found 0 medicines scheduled for 12:19:10
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:11 ===
+Found 0 medicines scheduled for 12:19:11
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:12 ===
+Found 0 medicines scheduled for 12:19:12
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:13 ===
+Found 0 medicines scheduled for 12:19:13
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:14 ===
+Found 0 medicines scheduled for 12:19:14
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:15 ===
+Found 0 medicines scheduled for 12:19:15
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:16 ===
+Found 0 medicines scheduled for 12:19:16
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:17 ===
+Found 0 medicines scheduled for 12:19:17
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:18 ===
+Found 0 medicines scheduled for 12:19:18
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:19 ===
+Found 0 medicines scheduled for 12:19:19
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:20 ===
+Found 0 medicines scheduled for 12:19:20
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:21 ===
+Found 0 medicines scheduled for 12:19:21
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:22 ===
+Found 0 medicines scheduled for 12:19:22
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:23 ===
+Found 0 medicines scheduled for 12:19:23
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:24 ===
+Found 0 medicines scheduled for 12:19:24
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:25 ===
+Found 0 medicines scheduled for 12:19:25
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:26 ===
+Found 0 medicines scheduled for 12:19:26
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:27 ===
+Found 0 medicines scheduled for 12:19:27
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:28 ===
+Found 0 medicines scheduled for 12:19:28
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:29 ===
+Found 0 medicines scheduled for 12:19:29
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:30 ===
+Found 0 medicines scheduled for 12:19:30
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:31 ===
+Found 0 medicines scheduled for 12:19:31
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:32 ===
+Found 0 medicines scheduled for 12:19:32
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:33 ===
+Found 0 medicines scheduled for 12:19:33
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:34 ===
+Found 0 medicines scheduled for 12:19:34
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:35 ===
+Found 0 medicines scheduled for 12:19:35
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:36 ===
+Found 0 medicines scheduled for 12:19:36
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:37 ===
+Found 0 medicines scheduled for 12:19:37
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:38 ===
+Found 0 medicines scheduled for 12:19:38
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:39 ===
+Found 0 medicines scheduled for 12:19:39
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:40 ===
+Found 0 medicines scheduled for 12:19:40
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:41 ===
+Found 0 medicines scheduled for 12:19:41
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:42 ===
+Found 0 medicines scheduled for 12:19:42
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:43 ===
+Found 0 medicines scheduled for 12:19:43
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:44 ===
+Found 0 medicines scheduled for 12:19:44
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:45 ===
+Found 0 medicines scheduled for 12:19:45
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:46 ===
+Found 0 medicines scheduled for 12:19:46
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:47 ===
+Found 0 medicines scheduled for 12:19:47
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:48 ===
+Found 0 medicines scheduled for 12:19:48
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:49 ===
+Found 0 medicines scheduled for 12:19:49
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:50 ===
+Found 0 medicines scheduled for 12:19:50
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:51 ===
+Found 0 medicines scheduled for 12:19:51
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:52 ===
+Found 0 medicines scheduled for 12:19:52
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:53 ===
+Found 0 medicines scheduled for 12:19:53
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:54 ===
+Found 0 medicines scheduled for 12:19:54
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:55 ===
+Found 0 medicines scheduled for 12:19:55
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:56 ===
+Found 0 medicines scheduled for 12:19:56
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:57 ===
+Found 0 medicines scheduled for 12:19:57
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:58 ===
+Found 0 medicines scheduled for 12:19:58
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:19:59 ===
+Found 0 medicines scheduled for 12:19:59
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:00 ===
+Found 0 medicines scheduled for 12:20:00
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:01 ===
+Found 0 medicines scheduled for 12:20:01
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:02 ===
+Found 0 medicines scheduled for 12:20:02
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:03 ===
+Found 0 medicines scheduled for 12:20:03
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:04 ===
+Found 0 medicines scheduled for 12:20:04
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:05 ===
+Found 0 medicines scheduled for 12:20:05
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:06 ===
+Found 0 medicines scheduled for 12:20:06
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:07 ===
+Found 0 medicines scheduled for 12:20:07
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:08 ===
+Found 0 medicines scheduled for 12:20:08
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:09 ===
+Found 0 medicines scheduled for 12:20:09
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:10 ===
+Found 0 medicines scheduled for 12:20:10
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:11 ===
+Found 0 medicines scheduled for 12:20:11
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:12 ===
+Found 0 medicines scheduled for 12:20:12
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:13 ===
+Found 0 medicines scheduled for 12:20:13
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:14 ===
+Found 0 medicines scheduled for 12:20:14
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:15 ===
+Found 0 medicines scheduled for 12:20:15
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:16 ===
+Found 0 medicines scheduled for 12:20:16
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:17 ===
+Found 0 medicines scheduled for 12:20:17
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:18 ===
+Found 0 medicines scheduled for 12:20:18
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:19 ===
+Found 0 medicines scheduled for 12:20:19
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:20 ===
+Found 0 medicines scheduled for 12:20:20
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:21 ===
+Found 0 medicines scheduled for 12:20:21
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:22 ===
+Found 0 medicines scheduled for 12:20:22
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:23 ===
+Found 0 medicines scheduled for 12:20:23
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:24 ===
+Found 0 medicines scheduled for 12:20:24
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:25 ===
+Found 0 medicines scheduled for 12:20:25
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:26 ===
+Found 0 medicines scheduled for 12:20:26
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:27 ===
+Found 0 medicines scheduled for 12:20:27
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:28 ===
+Found 0 medicines scheduled for 12:20:28
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:29 ===
+Found 0 medicines scheduled for 12:20:29
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:30 ===
+Found 0 medicines scheduled for 12:20:30
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:31 ===
+Found 0 medicines scheduled for 12:20:31
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:32 ===
+Found 0 medicines scheduled for 12:20:32
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:33 ===
+Found 0 medicines scheduled for 12:20:33
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:34 ===
+Found 0 medicines scheduled for 12:20:34
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:35 ===
+Found 0 medicines scheduled for 12:20:35
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:36 ===
+Found 0 medicines scheduled for 12:20:36
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:37 ===
+Found 0 medicines scheduled for 12:20:37
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:38 ===
+Found 0 medicines scheduled for 12:20:38
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:39 ===
+Found 0 medicines scheduled for 12:20:39
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:40 ===
+Found 0 medicines scheduled for 12:20:40
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:41 ===
+Found 0 medicines scheduled for 12:20:41
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:42 ===
+Found 0 medicines scheduled for 12:20:42
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:43 ===
+Found 0 medicines scheduled for 12:20:43
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:44 ===
+Found 0 medicines scheduled for 12:20:44
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:45 ===
+Found 0 medicines scheduled for 12:20:45
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:46 ===
+Found 0 medicines scheduled for 12:20:46
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:47 ===
+Found 0 medicines scheduled for 12:20:47
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:48 ===
+Found 0 medicines scheduled for 12:20:48
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:49 ===
+Found 0 medicines scheduled for 12:20:49
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:50 ===
+Found 0 medicines scheduled for 12:20:50
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:51 ===
+Found 0 medicines scheduled for 12:20:51
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:52 ===
+Found 0 medicines scheduled for 12:20:52
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:53 ===
+Found 0 medicines scheduled for 12:20:53
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:54 ===
+Found 0 medicines scheduled for 12:20:54
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:55 ===
+Found 0 medicines scheduled for 12:20:55
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:56 ===
+Found 0 medicines scheduled for 12:20:56
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:57 ===
+Found 0 medicines scheduled for 12:20:57
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:58 ===
+Found 0 medicines scheduled for 12:20:58
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:20:59 ===
+Found 0 medicines scheduled for 12:20:59
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:00 ===
+Found 1 medicines scheduled for 12:21:00
+Processing: 1234 for 1234@gmail.com
+Successfully sent reminder for 1234
+Total reminders sent: 1
+
+
+
+=== Checking reminders at 2025-04-12 12:21:06 ===
+Found 0 medicines scheduled for 12:21:06
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:07 ===
+Found 0 medicines scheduled for 12:21:07
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:08 ===
+Found 0 medicines scheduled for 12:21:08
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:09 ===
+Found 0 medicines scheduled for 12:21:09
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:10 ===
+Found 0 medicines scheduled for 12:21:10
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:11 ===
+Found 0 medicines scheduled for 12:21:11
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:12 ===
+Found 0 medicines scheduled for 12:21:12
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:13 ===
+Found 0 medicines scheduled for 12:21:13
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:14 ===
+Found 0 medicines scheduled for 12:21:14
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:15 ===
+Found 0 medicines scheduled for 12:21:15
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:16 ===
+Found 0 medicines scheduled for 12:21:16
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:17 ===
+Found 0 medicines scheduled for 12:21:17
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:18 ===
+Found 0 medicines scheduled for 12:21:18
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:19 ===
+Found 0 medicines scheduled for 12:21:19
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:20 ===
+Found 0 medicines scheduled for 12:21:20
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:21 ===
+Found 0 medicines scheduled for 12:21:21
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:22 ===
+Found 0 medicines scheduled for 12:21:22
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:23 ===
+Found 0 medicines scheduled for 12:21:23
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:24 ===
+Found 0 medicines scheduled for 12:21:24
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:25 ===
+Found 0 medicines scheduled for 12:21:25
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:26 ===
+Found 0 medicines scheduled for 12:21:26
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 12:21:27 ===
+Found 0 medicines scheduled for 12:21:27
+Total reminders sent: 0
+
