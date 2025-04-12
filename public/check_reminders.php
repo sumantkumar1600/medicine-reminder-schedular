@@ -3,6 +3,9 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
 // Load environment
 require __DIR__ . '/../vendor/autoload.php';
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__ . '/../config');
@@ -24,24 +27,91 @@ try {
 
 // Email template with inline styling
 function sendMedicineEmail($to, $medicine) {
-    $mail = new PHPMailer\PHPMailer\PHPMailer(true);
+    // $mail = new PHPMailer\PHPMailer\PHPMailer(true);
+    
+    // try {
+    //     $mail->isSMTP();
+    //     $mail->Host = $_ENV['MAIL_HOST'];
+    //     $mail->SMTPAuth = true;
+    //     $mail->Username = $_ENV['MAIL_USER'];
+    //     $mail->Password = $_ENV['MAIL_PASS'];
+    //     $mail->SMTPSecure = 'tls';
+    //     $mail->Port = $_ENV['MAIL_PORT'];
+    //     $mail->Timeout = 30;
+
+    //     $mail->setFrom($_ENV['MAIL_FROM_ADDRESS'], $_ENV['MAIL_FROM_NAME']);
+    //     $mail->addAddress($to);
+    //     $mail->Subject = "Reminder: Time for {$medicine['name']}";
+
+    //     // HTML Email Template
+    //     $mail->isHTML(true);
+    //     $mail->Body = <<<HTML
+    //     <div style="max-width: 600px; margin: 20px auto; font-family: 'Arial', sans-serif;">
+    //         <div style="background: #3B82F6; color: white; padding: 20px; border-radius: 10px 10px 0 0;">
+    //             <h2 style="margin: 0;">💊 Medication Reminder</h2>
+    //         </div>
+    //         <div style="background: #f8fafc; padding: 30px; border-radius: 0 0 10px 10px;">
+    //             <h3 style="color: #1e40af; margin-top: 0;">{$medicine['name']}</h3>
+    //             <p><strong>Dosage:</strong> {$medicine['dosage']}</p>
+    //             <p><strong>Time:</strong> {$medicine['time']}</p>
+    //             <hr style="border: 1px solid #e5e7eb; margin: 20px 0;">
+    //             <p style="color: #6b7280;">This is an automated reminder from MedCare System</p>
+    //         </div>
+    //     </div>
+    //     HTML;
+
+    //     $mail->AltBody = "Time to take {$medicine['name']} ({$medicine['dosage']}) now";
+        
+    //     $mail->send();
+    //     return true;
+    // } catch (Exception $e) {
+    //     error_log("Mail Error: " . $mail->ErrorInfo);
+    //     return false;
+    // }
+
+
+
+    
+
+    
+
     
     try {
+        
+
+
+
+    
+        // Get user email
+    
+
+        $email = $to; // Assuming $to is the email address of the user
+        if (!$email) {
+            throw new Exception('Invalid email address');
+        }
+    
+
+    
+        // Configure PHPMailer
+        $mail = new PHPMailer(true);
+        
+        // Server settings
         $mail->isSMTP();
-        $mail->Host = $_ENV['MAIL_HOST'];
+        $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = $_ENV['MAIL_USER'];
-        $mail->Password = $_ENV['MAIL_PASS'];
-        $mail->SMTPSecure = 'tls';
-        $mail->Port = $_ENV['MAIL_PORT'];
-        $mail->Timeout = 30;
-
-        $mail->setFrom($_ENV['MAIL_FROM_ADDRESS'], $_ENV['MAIL_FROM_NAME']);
-        $mail->addAddress($to);
-        $mail->Subject = "Reminder: Time for {$medicine['name']}";
-
-        // HTML Email Template
+        $mail->Username = 'btechcodingwallah@gmail.com';
+        $mail->Password = 'uxfs frot sarj ntiy';
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+        $mail->Port = 587;
+        $mail->SMTPDebug = 0; // Change to 2 for debugging
+    
+        // Recipients
+        $mail->setFrom('btechcodingwallah@gmail.com', 'MedCare Reminder');
+        $mail->addAddress($email);
+    
+        // Content
         $mail->isHTML(true);
+        $mail->Subject = 'Reminder For Your Daily Dose of Medicine';
         $mail->Body = <<<HTML
         <div style="max-width: 600px; margin: 20px auto; font-family: 'Arial', sans-serif;">
             <div style="background: #3B82F6; color: white; padding: 20px; border-radius: 10px 10px 0 0;">
@@ -56,15 +126,24 @@ function sendMedicineEmail($to, $medicine) {
             </div>
         </div>
         HTML;
-
         $mail->AltBody = "Time to take {$medicine['name']} ({$medicine['dosage']}) now";
-        
+    
         $mail->send();
         return true;
+    
+    
+    } catch (PDOException $e) {
+        error_log("Database error: " . $e->getMessage());
+        return false;
+
     } catch (Exception $e) {
-        error_log("Mail Error: " . $mail->ErrorInfo);
+        error_log("OTP error: " . $e->getMessage());
         return false;
     }
+
+
+
+
 }
 
 // Main reminder logic with time debugging
