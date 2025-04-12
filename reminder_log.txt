@@ -52017,3 +52017,33 @@ Total reminders sent: 0
 Found 0 medicines scheduled for 18:22:04
 Total reminders sent: 0
 
+
+
+=== Checking reminders at 2025-04-12 18:22:05 ===
+Found 0 medicines scheduled for 18:22:05
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 18:22:06 ===
+Found 0 medicines scheduled for 18:22:06
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 18:22:07 ===
+Found 0 medicines scheduled for 18:22:07
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 18:22:08 ===
+Found 0 medicines scheduled for 18:22:08
+Total reminders sent: 0
+
+
+
+=== Checking reminders at 2025-04-12 18:22:09 ===
+Found 0 medicines scheduled for 18:22:09
+Total reminders sent: 0
+
